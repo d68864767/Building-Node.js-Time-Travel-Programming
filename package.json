@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-time-travel-programming",
+  "version": "1.0.0",
+  "description": "Building Node.js Time Travel Programming",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "openai": "^0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nodejs-time-travel-programming.git"
+  },
+  "keywords": [
+    "nodejs",
+    "time-travel",
+    "programming",
+    "openai"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/nodejs-time-travel-programming/issues"
+  },
+  "homepage": "https://github.com/yourusername/nodejs-time-travel-programming#readme"
+}
